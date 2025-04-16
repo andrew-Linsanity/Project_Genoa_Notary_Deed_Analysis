@@ -1,0 +1,9 @@
+ID,FORM,LEMMA,POS,HEAD,DEPREL,NER
+1,Marcus,marcus,B1|grn1|casA|gen1,6,nsubj:pass,O
+2,Tullius,tullius,B1|grn1|casA|gen1,1,flat,O
+3,Cicero,cicerus,B1|grn1|casA|gen1,1,flat,O
+4,in,in,S4,5,case,O
+5,senatu,senatus,D1|grn1|casF|gen1,6,obl,O
+6,locutus,loquor,L2|modM|tem4|grp1|casA|gen1|vgr1,0,root,O
+7,est,sum,N3|modA|tem1|gen6,6,aux:pass,O
+8,.,.,Punc,6,punct,O
